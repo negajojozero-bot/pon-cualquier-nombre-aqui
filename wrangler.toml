@@ -1,0 +1,11 @@
+name = "pon-cualquier-nombre-aqui"
+main = "src/worker.js"
+compatibility_date = "2026-07-01"
+
+[[durable_objects.bindings]]
+name = "RELAY"
+class_name = "RelayRoom"
+
+[exports.RelayRoom]
+type = "durable-object"
+storage = "sqlite"

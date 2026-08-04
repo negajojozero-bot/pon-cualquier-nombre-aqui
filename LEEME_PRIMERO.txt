@@ -1,0 +1,34 @@
+GAZAPO LINK - CREAR UN RELAY EN WINDOWS
+========================================
+
+IMPORTANTE: solo uno de los dos jugadores hace estos pasos.
+Su amigo unicamente necesitara copiar la misma URL en Gazapo Link.
+
+1. Crea una cuenta gratis en:
+   https://dash.cloudflare.com/sign-up
+
+2. Instala Node.js LTS desde:
+   https://nodejs.org/
+   Usa las opciones predeterminadas.
+
+3. Descomprime completamente este archivo ZIP.
+
+4. Abre la carpeta extraida.
+
+5. Haz doble clic en CREAR_RELAY_WINDOWS.bat.
+
+6. Se abrira el navegador. Inicia sesion en Cloudflare y acepta.
+
+7. Vuelve a la ventana negra y espera hasta ver RELAY CREADO.
+
+8. Copia la URL terminada en workers.dev.
+
+9. Abre esa URL en el navegador. Debe mostrar protocol: 8.
+
+10. Pega exactamente la misma URL en los dos telefonos:
+    Gazapo Link > tres puntos > Servidor online > Guardar.
+
+La URL queda guardada. No necesitas repetir estos pasos ni dejar la computadora
+encendida para las siguientes partidas.
+
+Para mas detalles abre GUIA_RAPIDA.md con el Bloc de notas.

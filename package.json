@@ -1,0 +1,16 @@
+{
+  "name": "pon-cualquier-nombre-aqui",
+  "private": true,
+  "version": "0.2.0",
+  "scripts": {
+    "check": "node --check src/worker.js",
+    "dev": "npx wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.118.0"
+  },
+  "overrides": {
+    "undici": "^7.29.0"
+  }
+}
